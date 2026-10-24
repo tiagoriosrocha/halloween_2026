@@ -1,0 +1,12 @@
+{
+  "id": "boas_vindas",
+  "cue": "Bem-vindos ao Halloween do New Life!",
+  "text": "Bem-vindos ao Halloween do New Life!",
+  "exaggeration": 0.9,
+  "seed": 51,
+  "file": "boas_vindas.wav",
+  "provider": "ResembleAI/Chatterbox-Multilingual-TTS-pt-br",
+  "reference": "https://storage.googleapis.com/chatterbox-demo-samples/mtl-v3-single-language-prompts/pt-br/pt_br_f2.wav",
+  "cfg_weight": 0.25,
+  "temperature": 0.8
+}
